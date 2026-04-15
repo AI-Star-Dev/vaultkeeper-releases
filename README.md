@@ -18,7 +18,7 @@ A privacy-focused, offline-first personal vault application for managing account
 
 ## Screenshots
 
-![main](screenshorts/main.png)
+![main](screenshots/main.png)
 
 ![workspace](screenshots/workspace.png)
 
