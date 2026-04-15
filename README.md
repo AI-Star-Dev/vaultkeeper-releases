@@ -14,3 +14,20 @@ A privacy-focused, offline-first personal vault application for managing account
 - **Workspace** — multi-workspace support with isolated storage
 - **Lock Screen** — master-password protection with Argon2 hashing and AES-GCM encryption
 - **Recovery** — BIP39 mnemonic phrase for workspace recovery
+
+
+## Screenshots
+
+![main](screenshorts/main.png)
+
+![workspace](screenshots/workspace.png)
+
+![bookmark](screenshots/bookmark.png)
+
+![account](screenshots/account.png)
+
+![note](screenshots/note.png)
+
+![report](screenshots/report.png)
+
+![media](screenshots/media.png)
