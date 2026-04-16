@@ -20,6 +20,11 @@ A privacy-focused, offline-first personal vault application for managing account
 - add report search
 - add Linux build trigger by GitHub Action
 
+### 1.0.2 release (2026-04-16 16:30 UTC+8)
+
+- add check for updates feature
+- single instance restriction
+
 ## Features
 
 - **Account Management** — store and organize credentials with encrypted fields
