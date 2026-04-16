@@ -5,6 +5,19 @@ A privacy-focused, offline-first personal vault application for managing account
 
 [Source Code](https://github.com/vault-keeper/desktop-app) | [Why vault-keeper?](https://github.com/AI-Star-Dev/vaultkeeper-releases/issues/1)
 
+## Changelog
+
+### 1.0.0 release (2026-04-15)
+
+- first version released 
+- add macOS build trigger by GitHub Action
+
+### 1.0.1 release (2026-04-16)
+
+- fix account search
+- add report search
+- add Linux build trigger by GitHub Action
+
 ## Features
 
 - **Account Management** — store and organize credentials with encrypted fields
