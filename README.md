@@ -25,6 +25,13 @@ A privacy-focused, offline-first personal vault application for managing account
 - add check for updates feature
 - single instance restriction
 
+### 1.0.3 release (2026-04-16 21:00 UTC+8)
+
+- remove BIP39 mnemonic recovery phrase
+- fix critical bug in change_master_password
+- add encrypted backup export/import (.vkbak format)
+- handle workspace name conflicts on import
+
 ## Features
 
 - **Account Management** — store and organize credentials with encrypted fields
