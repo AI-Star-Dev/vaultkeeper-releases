@@ -32,6 +32,12 @@ A privacy-focused, offline-first personal vault application for managing account
 - add encrypted backup export/import (.vkbak format)
 - handle workspace name conflicts on import
 
+### 1.0.4 release (2026-04-17)
+
+- Make settings route to work without an active workspace
+- Auto-close import modal and add loading protection to settings modals
+- Fix some bugs
+
 ## Features
 
 - **Account Management** — store and organize credentials with encrypted fields
