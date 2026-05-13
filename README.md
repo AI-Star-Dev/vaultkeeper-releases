@@ -38,6 +38,12 @@ A privacy-focused, offline-first personal vault application for managing account
 - Auto-close import modal and add loading protection to settings modals
 - Fix some bugs
 
+### 1.0.5 release (2026-05-13)
+
+- feat(markdown-editor): add fullscreen mode and richer editing toolset
+- feat(markdown): add code syntax highlighting via highlight.js
+- fix(auto-lock): persist user-configured timeout across restarts
+
 ## Features
 
 - **Account Management** — store and organize credentials with encrypted fields
