@@ -44,6 +44,12 @@ A privacy-focused, offline-first personal vault application for managing account
 - feat(markdown): add code syntax highlighting via highlight.js
 - fix(auto-lock): persist user-configured timeout across restarts
 
+### 1.0.6 release (2026-05-22)
+
+- feat(security): confirm external links from markdown before opening
+- i18n(zh): refine lock-screen subtitle to match product vault metaphor
+- chore(rust): clear all rustc warnings and persist forgotten update fields, `cargo check` now reports 0 warnings.
+
 ## Features
 
 - **Account Management** — store and organize credentials with encrypted fields
