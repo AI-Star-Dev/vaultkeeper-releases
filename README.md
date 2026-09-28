@@ -5,7 +5,7 @@ vaultkeeper-releases
 
 A privacy-focused, offline-first personal vault application for managing accounts, bookmarks, notes, and media — all encrypted locally on your device.
 
-[Source Code](https://github.com/vault-keeper/desktop-app) | [Why vault-keeper?](https://github.com/AI-Star-Dev/vaultkeeper-releases/issues/1)
+[Why vault-keeper?](https://github.com/AI-Star-Dev/vaultkeeper-releases/issues/1)
 
 ## Changelog
 
