@@ -1,8 +1,6 @@
 vaultkeeper-releases
 ---------------------
 
->  Releases here will only include the Windows compiled version. Linux and macOS build versions are triggered by GitHub Actions, so please download them from the source [release](https://github.com/vault-keeper/desktop-app/releases) .
-
 A privacy-focused, offline-first personal vault application for managing accounts, bookmarks, notes, and media — all encrypted locally on your device.
 
 [Why vault-keeper?](https://github.com/AI-Star-Dev/vaultkeeper-releases/issues/1)
